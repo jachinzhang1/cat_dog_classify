@@ -1,0 +1,7 @@
+/.idea
+/models
+/train.txt
+/train_record.csv
+/val.txt
+/val_record.csv
+/__pycache__
